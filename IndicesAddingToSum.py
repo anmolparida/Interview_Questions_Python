@@ -1,4 +1,3 @@
-
 def IndicesAddingToSum(inputList, total):
     parent_list = []
 
@@ -18,15 +17,8 @@ def IndicesAddingToSum(inputList, total):
 
     print(parent_list)
 
-
 ListOfNum = [2,7,11,15,-6]
 vSum = 9
 
 IndicesAddingToSum(ListOfNum, vSum)
-
-
-
-
-
-
 
