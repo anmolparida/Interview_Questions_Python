@@ -11,15 +11,3 @@ for number in inputList:
     x = sorted(x,reverse=True)
 print(y + x)
 
-
-# output = ''
-# for values in y:
-#     output = str(output) + str(values)
-# print(output)
-#
-# for values in x:
-#     output = str(output) + str(values)
-# print(output)
-
-# print(output)
-
